@@ -1,0 +1,4 @@
+package com.store.productService.exception;
+
+public class ResponseEntityExceptionHandler extends org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler {
+}
